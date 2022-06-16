@@ -1,0 +1,18 @@
+[
+  {
+    "package": "adaptDiag",
+    "oncran": true
+  },
+  {
+    "package": "bayesDP",
+    "oncran": true
+  },
+  {
+    "package": "joineR",
+    "oncran": true
+  },
+  {
+    "package": "joineRML",
+    "oncran": true
+  }
+]
