@@ -8,8 +8,7 @@
     "oncran": true
   },
   {
-    "package": "joineR",
-    "oncran": true
+    "package": "joineR"
   },
   {
     "package": "joineRML",
