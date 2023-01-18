@@ -13,11 +13,6 @@
 	url = https://github.com/graemeleehickey/bayesdp
 	shallow = true
 	registered = true
-[submodule "joineR"]
-	path = joineR
-	url = https://github.com/graemeleehickey/joiner
-	shallow = true
-	registered = true
 [submodule "joineRML"]
 	path = joineRML
 	url = https://github.com/graemeleehickey/joinerml
