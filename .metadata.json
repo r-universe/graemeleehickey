@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "goldilocks",
+    "oncran": true
+  },
+  {
     "package": "joineR",
     "oncran": true
   },
