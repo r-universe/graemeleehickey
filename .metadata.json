@@ -1,6 +1,6 @@
 [
   {
-    "package": "adaptDiag",
+    "package": "joineRML",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "joineRML",
+    "package": "adaptDiag",
     "oncran": true
   }
 ]

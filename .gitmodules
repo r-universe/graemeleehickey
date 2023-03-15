@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "adaptDiag"]
-	path = adaptDiag
-	url = https://github.com/graemeleehickey/adaptdiag
+[submodule "joineRML"]
+	path = joineRML
+	url = https://github.com/graemeleehickey/joinerml
 	shallow = true
 	registered = true
 [submodule "bayesDP"]
@@ -18,8 +18,8 @@
 	url = https://github.com/graemeleehickey/joiner
 	shallow = true
 	registered = true
-[submodule "joineRML"]
-	path = joineRML
-	url = https://github.com/graemeleehickey/joinerml
+[submodule "adaptDiag"]
+	path = adaptDiag
+	url = https://github.com/graemeleehickey/adaptdiag
 	shallow = true
 	registered = true
