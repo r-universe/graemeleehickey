@@ -8,6 +8,9 @@
 [submodule "bayesDP"]
 	path = bayesDP
 	url = https://github.com/graemeleehickey/bayesdp
+[submodule "goldilocks"]
+	path = goldilocks
+	url = https://github.com/graemeleehickey/goldilocks
 [submodule "joineR"]
 	path = joineR
 	url = https://github.com/graemeleehickey/joiner
